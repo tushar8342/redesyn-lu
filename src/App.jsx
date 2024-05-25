@@ -1,7 +1,7 @@
 import "./App.css";
 import topImage from "../src/Assets/topImage.jpg"
 import roundImage from "../src/Assets/roundImage.png"
-import NavigateBackChevron from "../src/Assets/NavigateBackChevron.png"
+// import NavigateBackChevron from "../src/Assets/NavigateBackChevron.png"
 
 function App() {
   return (

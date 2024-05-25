@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import topImage from "../src/Assets/topImage.jpg"
 import roundImage from "../src/Assets/roundImage.png"

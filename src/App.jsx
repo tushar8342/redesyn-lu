@@ -1,7 +1,10 @@
 import "./App.css";
-import topImage from "../src/Assets/topImage.jpg"
-import roundImage from "../src/Assets/roundImage.png"
+import topImage from "../src/Assets/topImage.jpg";
+import roundImage from "../src/Assets/roundImage.png";
 // import NavigateBackChevron from "../src/Assets/NavigateBackChevron.png"
+// import topImage from "../src/Assets/topImage.jpg";
+// import roundImage from "../src/Assets/roundImage.png";
+// import NavigateBackChevron from "../src/Assets/NavigateBackChevron.png";
 
 function App() {
   return (
@@ -31,6 +34,7 @@ function App() {
         >
           <img
             className="Rectangle520"
+            alt="Altimage"
             style={{
               width: 440,
               height: 315,
@@ -187,6 +191,7 @@ function App() {
           />
           <img
             className="Ellipse697"
+            alt="Altimage"
             style={{
               width: 88,
               height: 88,
@@ -505,6 +510,7 @@ function App() {
                 className="Union"
                 style={{ width: 15, height: 16.67 }}
                 src="https://via.placeholder.com/15x17"
+                alt="Altimage"
               />
             </div>
           </div>
@@ -775,6 +781,7 @@ function App() {
           >
             <img
               className="Union"
+              alt="Altimage"
               style={{
                 width: 12,
                 height: 12,
@@ -878,6 +885,7 @@ function App() {
         >
           <img
             className="Subtract"
+            alt="Altimage"
             style={{
               width: 390,
               height: 88,
@@ -889,6 +897,7 @@ function App() {
           />
           <img
             className="NoiseTexture"
+            alt="Altimage"
             style={{
               width: 390,
               height: 100,
